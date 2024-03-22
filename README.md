@@ -28,7 +28,7 @@ to create a responsive homepage displying a my previous projects
 ### Links
 
 - Solution URL: [solution](https://github.com/Medido1/The-odin-project-Homepage)
-- Live Site URL: [live site](https://medido1.github.io/Frontend-Mentor-Blog-preview-card/)
+- Live Site URL: [live site](https://medido1.github.io/The-odin-project-Homepage/)
 
 ## My process
 
